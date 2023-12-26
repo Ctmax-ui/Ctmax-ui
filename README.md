@@ -7,7 +7,7 @@ I am a Full Stack Web Deplover
 * 🌍  I'm based in Kolkata (India).
 * ✉️  You can contact me at [debjeetbiswas121@gmail.com](mailto:debjeetbiswas121@gmail.com)
 * 🧠  I'm learning JavaScript.
-* 🤝  I'm open to collaborating on Any type of Web Deplovement project .
+* 🤝  I'm open to collaborating on any type of Web Deplovement project.
 * ⚡  I like to read Light Novels.
 
 ### Skills
