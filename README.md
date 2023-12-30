@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Full Stack Web Deplover
 
 * 🌍  I'm based in Kolkata (India).
-* ✉️  You can contact me at [debjeetbiswas121@gmail.com](mailto: debjeetbiswas121@gmail.com)
+* ✉️  You can contact me at [debjeetbiswas121@gmail.com] (mailto: debjeetbiswas121@gmail.com)
 * 🧠  I'm learning JavaScript.
 * 🤝  I'm open to collaborating on any type of Web Deplovement projects.
 * ⚡  I like to read Light Novels.
