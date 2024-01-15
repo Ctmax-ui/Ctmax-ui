@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debjeet
 ===============================================================================================================================
 
-I am a Full Stack Web Deplover
+I am a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&random=false&width=435&lines=Full+Stack+Web+Developer;Front-End+Developer" alt="Typing SVG" /></a>
+
+
 
 * 🌍  I'm based in Kolkata (India).
 * ✉️  You can contact me at debjeetbiswas121@gmail.com
