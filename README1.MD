@@ -35,6 +35,7 @@
   <p>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-302E31.svg?logo=googlechrome&logoColor=white"></a>
+      <a herf="#"><img src="https://img.shields.io/badge/Firefox-8034A9?style=flat&logo=firefox&logoColor=white" alt="Firefox" /></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
