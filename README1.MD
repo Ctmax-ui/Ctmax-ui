@@ -9,4 +9,4 @@
 
 <a href="https://github.com/Ctmax-ui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctmax-ui&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ctmax-ui)](https://github.com/anuraghazra/github-readme-stats)
