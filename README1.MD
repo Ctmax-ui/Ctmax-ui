@@ -18,6 +18,7 @@
       <a href="#"><img src="https://img.shields.io/badge/Bootstrap%205-purple?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap 5" /></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      <a herf="#"><img src="https://img.shields.io/badge/Figma-orange?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -41,6 +42,7 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/Codepen-black?style=flat&logo=codepen&logoColor=white" alt="Codepen" /></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-yellow?style=flat&logo=replit&logoColor=white"/></a>
       
