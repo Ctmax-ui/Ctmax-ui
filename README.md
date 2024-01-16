@@ -1,6 +1,6 @@
 <a>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debjeet</a>
 ===============================================================================================================================
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&random=false&width=500&lines=I'm+a+Full+Stack+Web+Developer.;Proficient+in+Front-End+and+Back-End" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&random=false&width=500&lines=I'm+a+Full+Stack+Web+Developer.;Proficient+in+Front-End+and+Back-End." alt="Typing SVG" /></a>
 
 
 * 🌍  I'm based in Kolkata (India).
