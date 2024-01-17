@@ -57,7 +57,7 @@
  <a href="#"><img alt="Replit" src=""/></a>
 
 
-<a href="#"><img alt="Replit" src="https://starchart.cc/{https://github.com/Ctmax-ui/}/{Grocery_Mart}.svg"/></a>
+<a href="#"><img alt="Replit" src="https://starchart.cc/{https://github.com/Ctmax-ui/Grocery_Mart.svg"/></a>
 
 
 
