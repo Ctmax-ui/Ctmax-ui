@@ -53,11 +53,11 @@
 
 
  <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+ <a href="#"><img alt="Replit" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="#"><img alt="Replit" src=""/></a>
 
 
-
-
-
+<a href="#"><img alt="Replit" src="https://starchart.cc/{https://github.com/Ctmax-ui/}/{repo}.svg"/></a>
 
 
 
