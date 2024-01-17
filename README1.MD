@@ -1,4 +1,4 @@
-<details> 
+
   <summary><h2>🛠️ My Skills</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -47,7 +47,7 @@
       <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-yellow?style=flat&logo=replit&logoColor=white"/></a>
       
   </p>
-</details>
+
 
 
 
