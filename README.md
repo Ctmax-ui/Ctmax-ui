@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Kolkata (India).
 * ✉️  You can contact me at debjeetbiswas121@gmail.com
-* 🧠  I'm learning JavaScript.
+* 🧠  I'm currently learning PHP.
 * 🤝  I'm open to collaborating on any type of Web Deplovement projects.
 * ⚡  I like to read Light Novels.
 
