@@ -8,7 +8,7 @@
      <a href="https://github.com/Ctmax-ui">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ctmax-ui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ctmax-ui&layout=compact&langs_count=8&theme=react"/>
-      <img src="https://streak-stats.demolab.com?user=Ctmax-ui&_border=true&theme=dark&hide_border=true&theme=react" style="width: 90%" />
+      <img src="https://streak-stats.demolab.com?user=Ctmax-ui&_border=true&theme=dark&hide_border=true&theme=react" style="width: 85%" />
     </a>
   </p>
 </div>
