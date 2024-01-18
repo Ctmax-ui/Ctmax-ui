@@ -1,4 +1,4 @@
-<img herf="https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg" />
+<img href="https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg" />
 
 
 
