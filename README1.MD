@@ -20,19 +20,9 @@
 ## :bar_chart: Github Metrics
 
 <p align="center">
-  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larrymahumot&theme=github_dark" />
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ctmax-ui&theme=github_dark" />
 </p>
 
-
-![Metrics](/github-metrics.svg)
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/Ctmax-ui?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FSingapore)" />
 
 
 
