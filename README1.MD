@@ -1,7 +1,5 @@
 
-
-
-<h1><img border="none" src="https://img.icons8.com/nolan/26/github.png"/> My Github Stats</h1>
+<h1><a><img border="none" src="https://img.icons8.com/nolan/26/github.png"/> My Github Stats</a></h1>
 
 
 
