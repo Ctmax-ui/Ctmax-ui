@@ -83,6 +83,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </p>
 </div>
 
-<div align="center">
+
 ![](https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg)
-</div>
+
+<img alt="github contribution grid snake animation" src="https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg)>
+
