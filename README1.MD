@@ -3,17 +3,16 @@
 
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats <img src="https://private-user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODU2MDksIm5iZiI6MTcwNTU4NTMwOSwicGF0aCI6Ii8xMDkzMDgwNzMvMjQzMjczNzM3LWJmZDc3YTYwLWQ0MjYtNDQ3MC1iNDE3LWZkYmFiMDE2NjE4OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxMzQxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjg5ZmM3NGYyMGI1YzdlODM3ZWU3MGI4ZjdjZDkwNDhjNjc0YTdjZjFkYWE5NmZlYjQwZDNlNWRiOTJkODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuTaUTQK4p7B8vLYCdX0Ew_hf7U0aYZtArpZ4uhho-0"/>
-<div align="center"
+<div align="center">
+ <p align="center">
+     <a href="https://github.com/Ctmax-ui">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ctmax-ui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
-<p align="center">
-<a href="https://github.com/Ctmax-ui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ctmax-ui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ctmax-ui&layout=compact&langs_count=8&theme=react"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ctmax-ui&layout=compact&langs_count=8&theme=react"/>
-
-  <img src="https://streak-stats.demolab.com?user=Ctmax-ui&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
- </a>
-</p>
+      <img src="https://streak-stats.demolab.com?user=Ctmax-ui&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+    </a>
+  </p>
 </div>
 
 
