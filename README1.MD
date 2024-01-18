@@ -1,3 +1,14 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctmax-ui&show_icons=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
 
   <summary><h2>🛠️ My Skills</h2></summary>
 
