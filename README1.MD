@@ -1,3 +1,12 @@
+<img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" />
+
+
+
+
+
+
+
+
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 <div align="center">
 <p align="center">
