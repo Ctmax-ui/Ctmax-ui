@@ -1,4 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctmax-ui&layout=compact&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctmax-ui&layout=compact&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt= "Top Codes" />
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctmax-ui&hide_progress=true&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
 
