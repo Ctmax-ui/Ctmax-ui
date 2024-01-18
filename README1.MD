@@ -1,3 +1,47 @@
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
+<div align="center">
+<p align="center">
+<a href="https://github.com/larrymahumot">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=larrymahumot&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+ </a>
+</p>
+</div>
+
+<h2 align="left">⚡Activity Graph:</h2>
+  <a>
+  <!--<img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true" />-->
+    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  </a>
+
+## :bar_chart: Github Metrics
+
+<p align="center">
+  <img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larrymahumot&theme=github_dark" />
+</p>
+
+<!--
+![Metrics](/github-metrics.svg)
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<p align="center">
+  <img width="100%" src="https://metrics.lecoq.io/larrymahumot?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FSingapore)" />-->
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
+</div>
+<div align="center">
+    <h4 align="center">"With God all things are possible."❤️</h4>
+</div>
+
+
+
 <a href="http://www.github.com/Ctmax-ui"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ctmax-ui&layout=donut&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt= "Top Codes" /></a>
 
 
