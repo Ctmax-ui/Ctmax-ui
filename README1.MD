@@ -32,15 +32,14 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/larrymahumot?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FSingapore)" />-->
+  <img width="100%" src="https://metrics.lecoq.io/Ctmax-ui?template=classic&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FSingapore)" />-->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{larrymahumot}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ctmax-ui}/count.svg" /></p> 
 </div>
-<div align="center">
-    <h4 align="center">"With God all things are possible."❤️</h4>
-</div>
+
+
 
 
 
