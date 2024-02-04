@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Kolkata (India).
 * ✉️  You can contact me at debjeetbiswas121@gmail.com
-* 🧠  I'm currently learning PHP.
+* 🧠  I'm currently learning PHP & SQL.
 * 🤝  I'm open to collaborating on any type of Web Deplovement projects.
 * ⚡  I like to read Light Novels.
 
