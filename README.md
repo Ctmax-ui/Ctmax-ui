@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
  <summary><h2> 🛠️ My Skills<a href="https://github.com/Ctmax-ui/"><img src="https://private-user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODU2MDksIm5iZiI6MTcwNTU4NTMwOSwicGF0aCI6Ii8xMDkzMDgwNzMvMjQzMjczNzM3LWJmZDc3YTYwLWQ0MjYtNDQ3MC1iNDE3LWZkYmFiMDE2NjE4OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxMzQxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjg5ZmM3NGYyMGI1YzdlODM3ZWU3MGI4ZjdjZDkwNDhjNjc0YTdjZjFkYWE5NmZlYjQwZDNlNWRiOTJkODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuTaUTQK4p7B8vLYCdX0Ew_hf7U0aYZtArpZ4uhho-0"/></a></h2></summary>
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <h3>👨‍💻 Programming and Markup Languages </h3>
 
   <p>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
