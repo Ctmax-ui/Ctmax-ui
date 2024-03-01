@@ -39,7 +39,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <a herf="#"><img src="https://img.shields.io/badge/Figma-orange?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>🌐 Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
