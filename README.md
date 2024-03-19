@@ -34,7 +34,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   <p>
       <a href="#"><img src="https://img.shields.io/badge/Bootstrap%205-purple?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap 5" /></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"></a>
    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a herf="#"><img src="https://img.shields.io/badge/Figma-orange?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
