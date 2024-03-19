@@ -33,7 +33,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="#"><img src="https://img.shields.io/badge/Bootstrap%205-purple?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap 5" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5" /></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
