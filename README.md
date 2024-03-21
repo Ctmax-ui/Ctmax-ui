@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
  <summary><h2> 🛠️ My Skills<a href="https://github.com/Ctmax-ui/"><img src="https://private-user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODU2MDksIm5iZiI6MTcwNTU4NTMwOSwicGF0aCI6Ii8xMDkzMDgwNzMvMjQzMjczNzM3LWJmZDc3YTYwLWQ0MjYtNDQ3MC1iNDE3LWZkYmFiMDE2NjE4OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxMzQxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjg5ZmM3NGYyMGI1YzdlODM3ZWU3MGI4ZjdjZDkwNDhjNjc0YTdjZjFkYWE5NmZlYjQwZDNlNWRiOTJkODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuTaUTQK4p7B8vLYCdX0Ew_hf7U0aYZtArpZ4uhho-0"/></a></h2></summary>
 
-  ### 👨‍💻 Programming and Markup Languages
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
       <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -31,7 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   </p>
 
-  ### 🧰 Frameworks and Libraries
+  <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
       <a href="#"><img alt="Bootstrap 5" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
@@ -41,7 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
   </p>
 
-  ### 🎨 Design
+  <h3>🎨 Design</h3>
 
   <p>
       <a herf="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>
@@ -49,14 +49,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </p>
   
 
-  ### 🌐 Databases and Cloud Hosting
+  <h3>🌐 Databases and Cloud Hosting</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
   </p>
 
-  ### 💻 Software and Tools
+  <h3>💻 Software and Tools</h3>
 
   <p>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
@@ -73,7 +73,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       
   </p>
 
-### 💬 Social
+<h3>💬 Social</h3>
 
 <a href='https://github.com/Ctmax-ui' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=FFFFFF&labelColor=2F2C2C&color=2F2C2C'/></a> <a href='https://www.linkedin.com/in/debjeet-biswas-3a02a82a8/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white'/></a> <a href='https://twitter.com/debjeetUI' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=104FFF&color=104FFF'/></a>  <a href='https://codepen.io/Ctmax-ui' target="_blank"><img alt='Codepen' src='https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=Codepen&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>  <a href='https://stackoverflow.com/users/23175400/daveui' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white'/></a>  <a href='https://replit.com/@DavedotB' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white'/></a>
 
