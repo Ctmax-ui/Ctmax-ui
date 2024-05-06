@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Kolkata (India).
 * ✉️  You can contact me at debjeetbiswas121@gmail.com.
 * 🧠  I'm currently learning Laravel.
-* 🤝  I'm open to collaborating on any type of Web Development projects.
+* 🤝  I'm open to collaborating on any type of projects.
 * ⚡  I like to read Light Novels and play or Make games in my freetime.
 
  <!--### 🛠️ Skills-->
