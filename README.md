@@ -84,7 +84,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
  <p align="center">
      <a href="https://github.com/Ctmax-ui">
-      <img align="center" style="width: 48%; height: fit-content;" src="https://github-readme-stats.vercel.app/api?username=Ctmax-ui&show_icons=true&theme=react&include_all_commits=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a"/>
+      <img align="center" style="width: 48%; height: 192.875px;" src="https://github-readme-stats.vercel.app/api?username=Ctmax-ui&show_icons=true&theme=react&include_all_commits=true&count_private=true&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a"/>
       <img align="center" style="width: 42%; height: fit-content; padding: 0 2em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ctmax-ui&layout=compact&langs_count=8&theme=react&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=0f172a"/>
       <img src="https://streak-stats.demolab.com?user=Ctmax-ui&_border=true&theme=darki&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&" style="width: 92%" /></a>
   </p>
