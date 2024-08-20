@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <br>
 
 <a align="left"> 
-  <p>Welcome Visitor 👋</p> <img src="https://profile-counter.glitch.me/Ctmax-ui/count.svg" />
+  <h3>Welcome Visitor 👋</h3><img src="https://profile-counter.glitch.me/Ctmax-ui/count.svg" />
 </a>
  <!--### 🛠️ Skills-->
 
