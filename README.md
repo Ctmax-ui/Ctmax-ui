@@ -6,13 +6,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=929292&random=false&width=500&lines=I'm+a+Full+Stack+Web+Developer.;Proficient+in+Front-End+and+Back-End." alt="Typing SVG" /></a>
 
-
 * 🌍  I'm based in Kolkata (India).
 * ✉️  You can contact me at debjeetbiswas121@gmail.com.
 * 🧠  I'm currently learning React.
 * 🤝  I'm open to collaborating on any type of projects.
 * ⚡  I like to read Light Novels and play or Make games in my freetime.
+ <br>
 
+<a align="left"> 
+  <p>Welcome Visitor 👋</p> <img src="https://profile-counter.glitch.me/Ctmax-ui/count.svg" />
+</a>
  <!--### 🛠️ Skills-->
 
 
@@ -91,10 +94,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </p>
 </div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Ctmax-ui/count.svg" />
-</p>
+
 
 <!-- ![](https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg)
 
