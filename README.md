@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=929292&random=false&width=500&lines=I'm+a+Full+Stack+Web+Developer.;Proficient+in+Front-End+and+Back-End." alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=929292&random=false&width=500&lines=I+am+an+Programmer.;I+make+stuff.+And+brake+stuff.;Then+again+make+stuff!!;If+you+seeing+this+please+hire+me!!" alt="Typing SVG" /></a>
 
 * 🌍  I'm based in Kolkata (India).
 * ✉️  You can contact me at workdebjeet@gmail.com.
