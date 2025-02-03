@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=929292&random=false&width=500&lines=I+am+an+Programmer.;I+make+stuff.+And+brake+stuff.;Then+again+make+stuff!!;If+you+seeing+this+please+hire+me!!" alt="Typing SVG" /></a>
 
 * 🌍  I'm based in India. 
-* ✉️  You can contact me at workdebjeet@gmail.com.
+* ✉️  You can contact me at ctmax@ctmax.anonaddy.com
 * 🧠  I'm currently learning NextJS & Python.
 * 🤝  I'm open to collaborating on any type of projects.
 * ⚡  I like to read Light Novels and play or Make games in my freetime.
