@@ -101,7 +101,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </p>
 </div>
 
-<a align="center" style="width: 42%; margin: 0 0 0 20px" href="www.github.com/Ctmax-ui" target="_blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ctmax-ui&theme=monokai&no-frame=false&no-bg=true&margin-w=4"/></a>
+<a align="center" style="width: 42%; margin: 0 0 0 20px" href="www.github.com/Ctmax-ui" target="_blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ctmax-ui&theme=monokai&no-frame=false&no-bg=false&margin-w=4"/></a>
 
 <!-- ![](https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg)
 
