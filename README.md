@@ -103,11 +103,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a align="center" style="width: 42%; margin: 0 0 0 20px" href="https://github.com/Ctmax-ui" target="_blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ctmax-ui&theme=monokai&no-frame=false&no-bg=false&margin-w=4"/></a>
 
-<!-- ![](https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg)
-
-<picture>
-<img alt="github contribution grid snake animation" src="https://github.com/Ctmax-ui/Ctmax-ui/blob/main/svg/download.svg)>
-</picture>
--->
-google-site-verification: google942579bdefe25e88.html
-<meta name="google-site-verification" content="c6nfQmFzTGOLE38QDrotWmBLOwhw4ucNGctQjwGmLe8" />
