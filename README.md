@@ -71,11 +71,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/github%20desktop-%232671E5.svg?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+      <a href="#"><img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"/></a>
@@ -85,9 +85,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3>💬 Social</h3>
 
-<a href='https://github.com/Ctmax-ui' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=FFFFFF&labelColor=2F2C2C&color=2F2C2C'/></a> <a href='https://twitter.com/TechVaticus' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=104FFF&color=104FFF'/></a>  <a href='https://codepen.io/Ctmax-ui' target="_blank"><img alt='Codepen' src='https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=Codepen&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>  <a href='https://stackoverflow.com/users/23175400/daveui' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white'/></a>  <a href='https://replit.com/@DavedotB' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white'/></a>
-
-
+<a href='http://discordapp.com/users/611542349335625776' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white'/></a> <a href='https://twitter.com/TechVaticus' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=104FFF&color=104FFF'/></a>  <a href='https://codepen.io/Ctmax-ui' target="_blank"><img alt='Codepen' src='https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=Codepen&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>  <a href='https://stackoverflow.com/users/23175400/daveui' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white'/></a>  <a href='https://replit.com/@DavedotB' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white'/></a>
 
 
 <summary><h2> 📊 My Github Stats <a href="https://github.com/Ctmax-ui/"><img src="https://private-user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODU2MDksIm5iZiI6MTcwNTU4NTMwOSwicGF0aCI6Ii8xMDkzMDgwNzMvMjQzMjczNzM3LWJmZDc3YTYwLWQ0MjYtNDQ3MC1iNDE3LWZkYmFiMDE2NjE4OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxMzQxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjg5ZmM3NGYyMGI1YzdlODM3ZWU3MGI4ZjdjZDkwNDhjNjc0YTdjZjFkYWE5NmZlYjQwZDNlNWRiOTJkODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuTaUTQK4p7B8vLYCdX0Ew_hf7U0aYZtArpZ4uhho-0"/></a></h2></summary>
