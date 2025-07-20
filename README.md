@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India. 
 * ✉️  You can contact me at ctmax@ctmax.anonaddy.com
-* 🧠  I'm currently learning Django REST Framework & Docker.
+* 🧠  I'm currently learning Django REST Framework & Docker & ML.
 * 🤝  I'm open to collaborating on any type of projects.
 * ⚡  I like to read Light Novels and play or Make games in my freetime.
  <br>
