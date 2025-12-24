@@ -4,16 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=929292&random=false&width=500&lines=I+am+an+Programmer.;I+make+stuff.+That+brake+stuff.;If+you+seeing+this+please+hire+me!!" alt="Typing SVG" /></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=929292&random=false&width=500&lines=Writing+code+for+a+living.;Fixing+mistakes+for+free.;Still+shipping+on+time.;Clean+code+advocate.;Bug+reducer+not+bug+free.;Always+learning.;And+I+use+ARCH+BTW." alt="Typing SVG" /></a>
 
 
 * 🌍  I'm based in India. 
-* ✉️  You can contact me at ctmax@ctmax.anonaddy.com
-* 🧠  I'm currently learning Django REST Framework & Docker & AI/ML.
+* ✉️  You can contact me at meetwithdave@gmail.com
+* 🧠  I'm currently learning Electron & AI/ML.
 * 🤝  I'm open to collaborating on any type of projects.
-* ⚡  I like to read Light Novels and play or Make games in my freetime.
+* ⚙️  I like to read Light Novels and play or Make games in my freetime.
 
-# I use ARCH btw.
+### I use <a href="https://github.com/Ctmax-ui/dotfiles"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a> btw.
 </br>
 
  
@@ -46,7 +46,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
       <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
       <a href="#"><img alt="DJANGO-REST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=%2320232a&labelColor=darkgreen"></a>
-      
+      <a href="#"><img alt="Electron.js" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white"></a>
       
   </p>
 
@@ -63,10 +63,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <p>
       <a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
       <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
       <a href="#"><img alt="Renderer" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"></a>
+      <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+      <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -87,8 +90,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3>💬 Social</h3>
 
-<a href='http://discordapp.com/users/611542349335625776' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white'/></a> <a href='https://twitter.com/TechVaticus' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=104FFF&color=104FFF'/></a>  <a href='https://codepen.io/Ctmax-ui' target="_blank"><img alt='Codepen' src='https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=Codepen&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>  <a href='https://stackoverflow.com/users/23175400/daveui' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white'/></a>  <a href='https://replit.com/@DavedotB' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white'/></a>
+<a href='http://discordapp.com/users/611542349335625776' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white'/></a> <a href='https://twitter.com/TechVaticus' target="_blank"><img alt='x' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=104FFF&color=104FFF'/></a>  <a href='https://codepen.io/Ctmax-ui' target="_blank"><img alt='Codepen' src='https://img.shields.io/badge/Codepen-100000?style=for-the-badge&logo=Codepen&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>  <a href='https://stackoverflow.com/users/23175400/daveui' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white'/></a>  <a href='https://replit.com/@DavedotB' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white'/></a> <a href='https://www.reddit.com/user/ctmax-ui/' target="_blank"><img alt='Reddit' src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white'/></a>
 
+<h3>🤝 Help me via</h3>
+<a><img alt='BuyMeACoffee' src='https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black'/></a>
 
 <summary><h2> 📊 My Github Stats <a href="https://github.com/Ctmax-ui/"><img src="https://private-user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODU2MDksIm5iZiI6MTcwNTU4NTMwOSwicGF0aCI6Ii8xMDkzMDgwNzMvMjQzMjczNzM3LWJmZDc3YTYwLWQ0MjYtNDQ3MC1iNDE3LWZkYmFiMDE2NjE4OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxMzQxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjg5ZmM3NGYyMGI1YzdlODM3ZWU3MGI4ZjdjZDkwNDhjNjc0YTdjZjFkYWE5NmZlYjQwZDNlNWRiOTJkODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuTaUTQK4p7B8vLYCdX0Ew_hf7U0aYZtArpZ4uhho-0"/></a></h2></summary>
 
