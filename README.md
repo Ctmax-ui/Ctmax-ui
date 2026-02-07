@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I'm open to collaborating on any type of projects.
 * ⚙️  I like to read Light Novels and play or Make games in my freetime.
 
-### I use <a href="https://github.com/Ctmax-ui/dotfiles"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a> btw.
+### I use the <a href="https://github.com/Ctmax-ui/dotfiles"><img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a> btw.
 </br>
 
  
